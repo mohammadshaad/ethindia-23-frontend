@@ -41,7 +41,7 @@ export const Navigation: React.FC = () => {
 							Events
 						</Link>
 						<Link
-							href="https://localhost:3001"
+							href="http://localhost:3001"
 							className="duration-200 text-zinc-400 hover:text-zinc-100"
 						>
 							Schedule Event
